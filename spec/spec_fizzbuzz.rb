@@ -11,3 +11,7 @@ describe FizzBuzz do
     expect(fizzbuzz.count()).to eql("1 2 Fizz 4 5")
   end
 end
+
+  #it "returns fizz for 3" do
+  #it "count until given parameter" do
+
